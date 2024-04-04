@@ -12,6 +12,6 @@
 6.Set Environment Variables.(Name = token,Value = Your Token)
 7.Wait for Render run the program.
 8.Copy URL below Discord-Profile-24-7
-6. Go to https://uptimerobot.com or https://cron-job.org/en/, register. Click: Add new moinitor
+6. Go to https://uptimerobot.com or https://cron-job.org/en/, register. Click: Add new monitor
 7. Monitor type is HTTP.Click create monitor (2 times)
 8. Make sure the last session you was online
