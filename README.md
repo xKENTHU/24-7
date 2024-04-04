@@ -1,5 +1,4 @@
 # Discord-Online-Forever
-Keep ypou Discord profile online forever
 
 1. Register Replit - https://Replit.com
 2. Run on Replit - https://replit.com/new/github/Gunthersuper/Discord-Online-Forever
